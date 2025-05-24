@@ -17,3 +17,4 @@ include:
     shield: sofle_left oled_adapter_pro_micro_128x128
   - board: nice_nano_v2
     shield: sofle_right oled_adapter_pro_micro_128x128
+    
